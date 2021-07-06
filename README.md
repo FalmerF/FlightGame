@@ -1,3 +1,7 @@
 # FlightGame
 A game made on the Unity game engine
-![](https://i.imgur.com/tJrs7hB.gif)
+
+
+
+
+![](https://github.com/FalmerF/FlightGame/blob/main/Recordings/gif_animation_004.gif)
