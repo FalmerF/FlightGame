@@ -1,5 +1,5 @@
 # FlightGame
-A game made on the Unity game engine
+A game made on the Unity game engine.
 
 
 
@@ -9,5 +9,5 @@ A game made on the Unity game engine
 
 
 # Assets
-![UAV Trident](https://assetstore.unity.com/packages/3d/vehicles/space/uav-trident-46128)  
-![POLYDesert](https://assetstore.unity.com/packages/3d/environments/landscapes/polydesert-107196)
+[UAV Trident](https://assetstore.unity.com/packages/3d/vehicles/space/uav-trident-46128)  
+[POLYDesert](https://assetstore.unity.com/packages/3d/environments/landscapes/polydesert-107196)
